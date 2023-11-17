@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JellyfishMT_Pink
+  m_Shader: {fileID: 4800000, guid: bde52f37009ee29469d2b28608dbfddf, type: 3}
+  m_ShaderKeywords: _TOGGLEBLUR1_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3999
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _OpacityMask:
+        m_Texture: {fileID: 2800000, guid: 924783c454f5c0743a1003418d7f2f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: fbf9aeae0904cc84297559e4d8f3a2da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: f92a07782f9c5fb48844ff4ae76a1241, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 924783c454f5c0743a1003418d7f2f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - MaskClipVal: 0.13
+    - _AlbedoOpacity: 1
+    - _BlurSize: 0.05
+    - _BlurSize1: 0.0174
+    - _Cutoff: -1.99
+    - _Emission: 1
+    - _Float0: 0.13
+    - _Float4: 0.08
+    - _GradientOffset: 0
+    - _Mask: 0.13
+    - _MaskClipVal: 0.13
+    - _Metalic: 0
+    - _Opacity: 0.395
+    - _Smoothness: 0
+    - _ToggleBlur: 1
+    - _ToggleBlur1: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Color0: {r: 1, g: 1, b: 1, a: 0}
+    - _Color1: {r: 1, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0.8846563, g: 1.2171701, b: 5.3584905, a: 1}
+    - _Vector0: {r: 2.89, g: 5.18, b: 0, a: 0}
+  m_BuildTextureStacks: []

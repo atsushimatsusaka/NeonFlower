@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlowerMT_Orange
+  m_Shader: {fileID: 4800000, guid: 81b13f02568a34f46b73af9a4ac8537b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _OpacityMask:
+        m_Texture: {fileID: 2800000, guid: 844956e2c67e2c04eb344cce85e74287, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OpacityMask1:
+        m_Texture: {fileID: 2800000, guid: 844956e2c67e2c04eb344cce85e74287, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: f92a07782f9c5fb48844ff4ae76a1241, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 844956e2c67e2c04eb344cce85e74287, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: f92a07782f9c5fb48844ff4ae76a1241, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlurSize: 0.0392
+    - _BlurSize2: 0.0362
+    - _Cutoff: 0.14
+    - _Metalic: 0
+    - _Metalic1: 1
+    - _Opacity: 0.104
+    - _Opacity1: 0.647
+    - _Smoothness: 0
+    - _Smoothness1: 0
+    - _ToggleBlur: 1
+    - _ToggleBlur2: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 2.270603, g: 0, b: 1.3552289, a: 0}
+    - _Color1: {r: 0, g: 0.07450986, b: 1, a: 0}
+    - _EmissionColor: {r: 23.968628, g: 10.866608, b: 8.031373, a: 0}
+    - _EmissionColor1: {r: 1, g: 0, b: 0.6392157, a: 0}
+  m_BuildTextureStacks: []
